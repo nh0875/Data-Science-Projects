@@ -2,6 +2,7 @@
 This repository contains a comprehensive collection of Excel spreadsheets and AI-powered projects designed to support various business functions, including sales control, human resources analysis, and process automation. It serves as a versatile toolkit for enterprises looking to enhance data-driven decision-making.
 
 📂 Repository Contents:
+
 📌 Excel Spreadsheets for Business Operations
 Sales Control Templates: Track revenue, monitor inventory, and analyze sales trends.
 HR Analysis Sheets: Employee performance tracking, compensation analysis, and workforce planning.
