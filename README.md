@@ -42,4 +42,4 @@ Estudiante de 3° año en Ciencia de Datos. He desarrollado una base sólida en:
 ## 📬 Contacto
 
 - ✉️ Email: [Juan Ignacio Hilliard](mailto:hilliard.cdm@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/hilliardcdm/]((https://www.linkedin.com/in/hilliardcdm/))
+- 💼 LinkedIn: [linkedin.com/in/hilliardcdm/]([https://www.linkedin.com/in/hilliardcdm/])
