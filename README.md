@@ -1,20 +1,45 @@
-📊 Juan Ignacio Hilliard - Data Science Portfolio
-Soy Juan Ignacio Hilliard, estudiante de Ciencia de Datos en 3° año con una fuerte pasión por transformar datos en insights valiosos y soluciones prácticas.
-🎯 Sobre mí
-Soy una persona altamente organizada y estructurada, tanto en mi vida personal como en mis proyectos académicos y profesionales. Esta característica me permite abordar problemas complejos de manera sistemática y entregar resultados de calidad de forma consistente.
-🌍 Idiomas
+# 📊 Juan Ignacio Hilliard – Data Science Portfolio
 
-Español - Nativo
-Inglés - Avanzado
-Portugués - Avanzado
-Alemán - Básico-Intermedio
+¡Bienvenido a mi portfolio!  
+Soy **Juan Ignacio Hilliard**, estudiante de Ciencia de Datos en 3° año, con una fuerte pasión por transformar datos en **insights valiosos** y **soluciones prácticas**.
 
-Mi dominio de múltiples idiomas me permite colaborar efectivamente en equipos internacionales y acceder a recursos académicos y profesionales en diferentes lenguas.
-🎓 Perfil Académico
-Como estudiante de 3° año en Ciencia de Datos, he desarrollado una base sólida en:
+---
 
-Fundamentos estadísticos y matemáticos
-Machine Learning supervisado (regresión, clasificación)
-Análisis exploratorio de datos
-Visualización y comunicación de resultados
-Metodologías ágiles para proyectos de datos
+## 🎯 Sobre mí
+
+Soy una persona altamente organizada y estructurada, tanto en mi vida personal como en mis proyectos académicos y profesionales.  
+Me especializo en abordar problemas complejos de forma sistemática y entregar resultados de calidad de manera consistente.
+
+---
+
+## 🌍 Idiomas
+
+| Idioma    | Nivel             |
+|-----------|-------------------|
+| Español   | Nativo            |
+| Inglés    | Avanzado          |
+| Portugués | Avanzado          |
+| Alemán    | Básico - Intermedio |
+
+Mi dominio de múltiples idiomas me permite colaborar eficazmente en equipos internacionales y acceder a recursos académicos y profesionales en diferentes lenguas.
+
+---
+
+## 🎓 Perfil Académico
+
+Estudiante de 3° año en Ciencia de Datos. He desarrollado una base sólida en:
+
+- Fundamentos estadísticos y matemáticos
+- Machine Learning supervisado:  
+  - Regresión  
+  - Clasificación
+- Análisis exploratorio de datos (EDA)
+- Visualización de datos y comunicación de resultados
+- Metodologías ágiles aplicadas a proyectos de datos
+
+---
+
+## 📬 Contacto
+
+- ✉️ Email: [Juan Ignacio Hilliard](mailto:hilliard.cdm@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/hilliardcdm/]((https://www.linkedin.com/in/hilliardcdm/))
